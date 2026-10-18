@@ -7,7 +7,7 @@ I build data-driven solutions across machine learning, NLP, and data engineering
 ## 🛠️ Skills
 
 - **Languages:** Python, SQL, R
-- **Machine Learning & NLP:** Machine Learning, Sentiment Analysis, Feature Engineering
+- **Machine Learning & AI:** Machine Learning, NLP, Computer Vision, Sentiment Analysis, Feature Engineering
 - **Data Engineering:** ETL/ELT Pipelines, Apache Spark
 - **BI & Visualization:** Power BI
 
